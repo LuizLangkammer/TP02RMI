@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="08881b72-cfcd-49a9-a70e-b23eb063754e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TP02RMI.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classes/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classes/Field.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classes/FieldInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classes/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/enums/Result.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/rmi/ClientMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/rmi/ClientRMI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/rmi/ServerMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/rmi/ServerRMI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/windows/Window.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Fx3T6mqTVbVTjZ3Nz1QxhzfXnV" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/home/luiz/programing/Meus_Projetos/Java/TP1Socket",
+    "settings.editor.selected.configurable": "reference.projectsettings.compiler.rmicompiler"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="rmi" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" singleton="false" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="TP02RMI" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="08881b72-cfcd-49a9-a70e-b23eb063754e" name="Changes" comment="" />
+      <created>1665419914532</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1665419914532</updated>
+      <workItem from="1665419915834" duration="1775000" />
+      <workItem from="1665421843732" duration="1684000" />
+      <workItem from="1665428443812" duration="878000" />
+      <workItem from="1665433466880" duration="88000" />
+      <workItem from="1665433927242" duration="27000" />
+      <workItem from="1665680751639" duration="922000" />
+      <workItem from="1665681811546" duration="263000" />
+      <workItem from="1665754348781" duration="679000" />
+      <workItem from="1665763308576" duration="8931000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
